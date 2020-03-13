@@ -2,5 +2,5 @@
 
 First execute: ```npm install```
 
-### Console comand example:
+### Console command example:
 ``` node app -c "Santa Ana" ```
